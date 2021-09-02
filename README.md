@@ -1,6 +1,6 @@
 ## Why, hello there! 👋
 
-- :man_technologist: I’m Rory, a passionate self-taught data enthusiast with a background in urban planning and real estate development.
+- :man_technologist: I’m Rory, a passionate data enthusiast with a background in urban planning and real estate development.
 
 - 👀 My interests lie at the intersection of using data and technology to improve how we build communities. I am a firm believer that many of the challenges faced by cities and real estate professionals can be resolved using a bit of code and an open mind.
 
