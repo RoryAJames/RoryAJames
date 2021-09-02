@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Rory
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Rory, a passionate self-taught data enthusiast with a background in urban planning and real estate development.
 
-<!---
-RoryAJames/RoryAJames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 My interests lie at the intersection of using data and technology to improve how we build communities while creating operational efficiencies.  
+
+- 🌱 I’m currently working on a machine learning project that predicts the number of monthly housing absorptions in the City of Toronto. Stay tuned!
