@@ -1,4 +1,4 @@
-## Why, hello there! 👋
+## Hello! 👋
 
 - :man_technologist: I’m Rory, a passionate data enthusiast with a background in urban planning and real estate development.
 
