@@ -1,8 +1,8 @@
 ## Hello! 👋
 
-- :man_technologist: I’m Rory, a passionate enthusiast transitioning from real estate development into all things data. 
+- :man_technologist: I’m Rory, a passionate data enthusiast that is inspired by innovation, growth, and change.
 
-- 👀 My interests lie at the intersection of using data and technology to improve operations and drive actionable insights. I am a firm believer that many of the analytical challenges faced by businesses can be resolved using a bit of code and an open mind.
+- 👀 My interests lie at the intersection of using data and technology to improve business operations and drive actionable insights. I am a firm believer that many of the analytical challenges faced by businesses can be resolved using a bit of code and an open mind.
 
 - 🌱 I’m currently touching up on my database skills and working on data engineering practices.
 
