@@ -4,7 +4,7 @@
 
 - 👀 My interests lie at the intersection of using data and technology to improve business operations and drive actionable insights. I am a firm believer that many of the analytical challenges faced by businesses can be resolved using a bit of code and an open mind.
 
-- 🌱 I’m currently touching up on my database skills and working on data engineering practices.
+- 🌱 I’m currently working on an ETL pipeline that combines and cleans the annual holdings data of the Norwegian Oil Fund. The end result will be an application that allows a user to uncover insights into the funds holdings.
 
 - :rocket: Outside of my professional interests I am an avid cyclist, a foodie, a traveler, a guitar player, an ocassional woodworker, y hablo mucho español.
 
